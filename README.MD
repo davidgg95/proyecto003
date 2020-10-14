@@ -1,1 +1,1 @@
-# Formas geométricas son clases y con métodos programados en estas clases
+# Formas geométricas con clases y con métodos programados 
