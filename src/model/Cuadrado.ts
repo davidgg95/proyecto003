@@ -8,6 +8,4 @@ class Geometria3 {
         return this._lado1 ** 2 
     }
 }
-let cuadrado: Geometria3
-cuadrado = new Geometria3(5)
-console.log(`La area es: ${cuadrado.getArea()}`)
+export{Geometria3}

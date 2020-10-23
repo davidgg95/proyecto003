@@ -10,6 +10,4 @@ class Geometria {
         return this._lado1 * this._lado2
     }
 }
-let rectangulo: Geometria
-rectangulo = new Geometria(5,2)
-console.log(`La area es: ${rectangulo.getArea()}`)
+export{Geometria}

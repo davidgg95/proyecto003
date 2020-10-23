@@ -10,6 +10,4 @@ class Geometria4 {
         return this._pi * this._radio ** 2 
     }
 }
-let circulo: Geometria4
-circulo = new Geometria4(3.14,2)
-console.log(`La area es: ${circulo.getArea()}`)
+export{Geometria4}

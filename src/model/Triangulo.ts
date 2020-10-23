@@ -10,6 +10,4 @@ class Geometria2 {
         return this._base * this._altura /2
     }
 }
-let triangulo: Geometria2
-triangulo = new Geometria2(20,2)
-console.log(`La area es: ${triangulo.getArea()}`)
+export{Geometria2}
